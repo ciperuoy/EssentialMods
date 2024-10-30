@@ -16,3 +16,5 @@ GorillaFriends - A mod that lets you friend other players! Can connect to Banana
 GorillaShirts - A mod that lets you express yourself with different shirts. - Made by developer9998
 
 WhoIsTalking - A simple nametag mod that lets you see who they are, and if they are talking or not. - Made by The-Graze
+
+Unity Explorer - A simple tool that helps you with mod creation! - Made by sinaidev
